@@ -3,7 +3,7 @@
 - CPU: i3-7100U
 - Display: 15.6” HD (1366 x 768)
 - GPU: Intel(R) HD Graphics 620
-- USB: 3x USB 2.0
+- USB: 2x USB 2.0, 1x USB 3.0
 - Wifi/Bluetooth: QCA9377 (not working, must be replaced)
 - Ethernet: Realtek PCIe FE Family Controller
 - Audio: Realtek ALC256
