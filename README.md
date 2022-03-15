@@ -28,3 +28,5 @@
 - 3.5mm port
 
  All of informations above are tested on MacOS Bigsur 11.6.3
+
+# [Download EFI here](https://github.com/datpusheen123/oc-hackintosh-dell-inspiron-3567/releases)
