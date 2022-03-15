@@ -2,6 +2,7 @@
 ### Specifications:
 - A DVD Drive
 - Audio: Realtek ALC256
+- Built in microphone
 - CPU: i3-7100U
 - Display: 15.6” HD (1366 x 768)
 - Ethernet: Realtek PCIe FE Family Controller
@@ -12,12 +13,14 @@
 
 ### Working
 - Audio
+- Battery Status
 - Brightness
 - Brightness Key (F11, F12)
 - Ethernet
 - HDMI
 - Intel(R) HD Graphics 620
 - Integrated Webcam
+- Microphone
 - Sleep
 - Touchpad
 - USB Ports
