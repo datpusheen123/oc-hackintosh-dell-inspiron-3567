@@ -1,4 +1,4 @@
-# OpenCore Hackintosh on Dell Inspiron 15 3567.
+# OpenCore Hackintosh on Dell Inspiron 15 3567
 ### Specifications:
 - Audio: Realtek ALC256
 - Built-in microphone
