@@ -31,6 +31,6 @@
 - Bluetooth
 - Wifi
 
- All informations above are tested on MacOS Bigsur 11.6.3
+ All information above are tested on MacOS Bigsur 11.6.3
 
 # [Download EFI here](https://github.com/datpusheen123/oc-hackintosh-dell-inspiron-3567/releases)
